@@ -2,8 +2,9 @@
 
 https://tryhackme.com/share/capability-score/yashvisureka251
 
-# Profile of TryHackMe
+# Badges
 
-https://tryhackme.com/p/yashvisureka251
+https://tryhackme.com/p/yashvisureka251?tab=badges
+
 
 # 
